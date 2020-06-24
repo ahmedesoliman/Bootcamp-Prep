@@ -10,4 +10,4 @@
 
 const currentYear = 2019 + 1
 
-console.log('currentYear')
+console.log('currentYear = ', currentYear)
