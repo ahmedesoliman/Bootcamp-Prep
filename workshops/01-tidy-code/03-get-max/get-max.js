@@ -13,3 +13,5 @@ function getMax(num1, num2, num3) {
       return num3;
     }
   }
+
+  getMax(10,55,85)
