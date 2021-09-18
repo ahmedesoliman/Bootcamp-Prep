@@ -1,13 +1,14 @@
-let name = 'David';
+let name = "David";
 // let name = 'Nimit';
 // let name = 'Someone else';
 
 let found;
 
-if (name === 'David' || name === 'Nimit') {
-found = true;
+if (name === "David" || name === "Nimit") {
+  found = true;
 } else {
-        found = false;
-    }
-    
+  found = false;
+}
+
+console.log("Name found: " + found);
 // YOUR CODE BELOW
